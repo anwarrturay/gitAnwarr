@@ -1,51 +1,12 @@
-# Hi there, I'm Anwarr 👋
+# Hi there, I'm Anwarr Osman Basheer Turay 👋
 
-🎨 **UI/UX Designer** • 💻 **Full-Stack Developer** • 👨‍💻 **Freelancer**  
+🎨 **UI/UX Designer** • 💻 **Software Engineer** • 👨‍💻 **Freelancer**  
 Transforming abstract ideas into **beautiful, functional, and user-centered digital experiences**.
 
----
-
-## 🚀 About Me  
-- 🎯 Final-year tech student, passionate about **web development** & **machine learning**.  
-- 🛠 Building engaging apps with **MERN Stack** & modern design principles.  
-- 📱 Designing intuitive, rich, and sophisticated **UI/UX** interfaces.    
-- 📚 Currently mastering **TypeScript**, **NestJs** and diving deeper into **Redux Toolkit**.
-
----
-
-## 💡 Skills  
-**Languages & Frameworks:**  
-JavaScript | TypeScript | Python | HTML | CSS | Node.js | Express.js | React.js | Redux Toolkit | NestJs | NextJs | React Native | Mongoose | Prisma
-
-**Databases:**  
-MongoDB | MySQL  | PostgreSQL
-
-**Tools & Design:**  
-Figma | @react-pdf/renderer | Tailwind CSS  
-
-**Other Skills:**  
-- REST API Development  
-- OAuth 2.0 Authentication  
-- Responsive Design  
-- Networking  
-
----
-
-## 🌟 Featured Projects  
-- **Wokpepa** – A modern resume builder with templates, PDF generation, and OAuth login.  
-- **WasteWise** – Waste management app with education and awareness features.  
-- **Loyalty Rewards Platform** – Real-time multi-tier rewards with CRM integration.
-- **Miskul** - A standard University Result generator checker.
-- **KlinMakeni** - A waste management system that's design to eradicate and incentivize citizens in makeni about wastes.
-
-*(Check my pinned repositories for more!)*
-
----
-
 ## 📫 Connect With Me  
-- Portfolio: https://anwarrturayportfolio.onrender.com 
-- Email: [anwarrturay@icloud.com](mailto:anwarrturay03@gmail.com)  
-- LinkedIn:[https://www.linkedin.com/in/anwarr-turay-0413282a5/](https://linkedin.com/in/your-username)   
+- Portfolio: https://yousadat.onrender.com 
+- Email: [anwarrturay@icloud.com]
+- LinkedIn:[https://www.linkedin.com/in/anwarr-turay-0413282a5/]
 
 ---
 
